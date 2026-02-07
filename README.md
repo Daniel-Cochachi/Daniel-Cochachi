@@ -11,20 +11,22 @@
 
 A continuación, presento algunos de los proyectos de maquetación, landing pages y sistemas básicos que he desarrollado para practicar diseño UI/UX y desarrollo web completo.
 
-![Banner de Proyectos Responsivos](./assets/banner-proyectos.png)
 
 ### 🚀 Listado de Proyectos
 
 Aquí puedes ver el código fuente de mis prácticas más recientes:
 
-* 💈 **[Landing Page Barbería](https://github.com/Daniel-Cochachi/Landing-Page-Barberia.git)**
+* 💈 **[Landing Page Barbería](https://github.com/Daniel-Cochachi/Landing-Page-Barberia.git)** - **LINK** https://daniel-cochachi.github.io/Landing-Page-Barberia/
     * Maquetación de una página de aterrizaje moderna para un negocio de barbería.
 
-* 🌸 **[Landing Page Florería](https://github.com/Daniel-Cochachi/Landing-Floreria.git)**
+* 🌸 **[Landing Page Florería](https://github.com/Daniel-Cochachi/Landing-Floreria.git)** - **LINK** https://landing-floreria-xi.vercel.app/
     * Diseño elegante y visual para una tienda de flores (similar al concepto de la imagen superior).
 
-* 👨‍💻 **[Mi Portafolio Personal](https://github.com/Daniel-Cochachi/Portafolio-Daniel-Cochachi.git)**
+* 👨‍💻 **[Mi Portafolio Personal](https://github.com/Daniel-Cochachi/Portafolio-Daniel-Cochachi.git)** - **LINK** https://daniel-cochachi.github.io/Portafolio-Daniel-Cochachi/
     * Página web personal para mostrar mis habilidades y proyectos como desarrollador.
+
+* 👨‍💻 **[DC SOLUTIONS]([(https://dc-solutions-steel.vercel.app/))**
+    * DC SOLUTIONS pagina web donde doy servicios.
 
 * 🛒 **[Sistema E-commerce Básico (Backend)](https://github.com/Daniel-Cochachi/Daniel-Cochachi-Sistema-Ecommerce-basico-Java-Spring-boot-Back-end.git)**
     * Práctica de un backend esencial para comercio electrónico utilizando Java y Spring Boot.
