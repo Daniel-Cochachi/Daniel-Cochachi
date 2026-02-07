@@ -20,8 +20,8 @@ Aquí puedes ver el código fuente de mis prácticas más recientes:
     * Maquetación de una página de aterrizaje moderna para un negocio de barbería.
 
 * 🌸 **[Landing Page Florería](https://github.com/Daniel-Cochachi/Landing-Floreria.git)** - **LINK** https://landing-floreria-xi.vercel.app/
-    * Diseño elegante y visual para una tienda de flores (similar al concepto de la imagen superior).
-
+    * Diseño elegante y visual para una tienda de flores.
+      
 * 👨‍💻 **[Mi Portafolio Personal](https://github.com/Daniel-Cochachi/Portafolio-Daniel-Cochachi.git)** - **LINK** https://daniel-cochachi.github.io/Portafolio-Daniel-Cochachi/
     * Página web personal para mostrar mis habilidades y proyectos como desarrollador.
 
