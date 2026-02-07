@@ -1,4 +1,4 @@
-# 🧪 Laboratorio de Desarrollo de Daniel Cochachi
+# 🧪 Laboratorio de Desarrollo de Daniel Cochachi Pariona
 
 ¡Hola! 👋 Este es mi perfil secundario en GitHub. Aquí es donde realizo experimentos, practico frontend, pruebo nuevas tecnologías y guardo mis proyectos de aprendizaje continuo.
 
@@ -25,7 +25,7 @@ Aquí puedes ver el código fuente de mis prácticas más recientes:
 * 👨‍💻 **[Mi Portafolio Personal](https://github.com/Daniel-Cochachi/Portafolio-Daniel-Cochachi.git)** - **LINK** https://daniel-cochachi.github.io/Portafolio-Daniel-Cochachi/
     * Página web personal para mostrar mis habilidades y proyectos como desarrollador.
 
-* 👨‍💻 **[Mi Portafolio Personal](https://dc-solutions-steel.vercel.app/)**
+* 👨‍💻 **[DC SOLUTIONS](https://dc-solutions-steel.vercel.app/)**
     * DC SOLUTIONS pagina web donde doy servicios.
 
 * 🛒 **[Sistema E-commerce Básico (Backend)](https://github.com/Daniel-Cochachi/Daniel-Cochachi-Sistema-Ecommerce-basico-Java-Spring-boot-Back-end.git)**
