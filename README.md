@@ -9,12 +9,12 @@ A continuación, presento los proyectos clave que puedes encontrar detallados en
 ### 1. 🏗️ Corporación Raunass
 Plataforma web integral para servicios de ingeniería y construcción.
 - **Tecnologías:** Astro, HTML, CSS, JavaScript.
-- **Link:** [Visitar Sitio](https://corporacionraunass.com/)
+- **Link:** [Visitar Sitio](https://corporacionraunass.vercel.app)
 
 ### 2. 📦 Sistema de Inventario (Full Stack)
 Sistema de gestión de inventarios con reportes en tiempo real y control de stock.
 - **Tecnologías:** Java, Spring Boot, MySQL.
-- **Link:** [Ver Código](https://github.com/Daniel-Cochachi/Inventory-System)
+- **Link:** [Ver Código](https://github.com/Daniel-Cochachi/Sistema-de-Inventarios)
 
 ### 3. 🏋️ Appex Gym
 Landing page para gimnasio con sistema de membresías y diseño dinámico.
@@ -29,7 +29,7 @@ Sitio web elegante para florería con catálogo de productos y diseño responsiv
 ### 5. 🛒 E-commerce Rest API (Backend)
 API RESTful robusta para comercio electrónico con autenticación y gestión de pedidos.
 - **Tecnologías:** Java, Spring Boot, MySQL, Spring Security.
-- **Link:** [Ver Código](https://github.com/Daniel-Cochachi/Ecommerce-Rest-API)
+- **Link:** [Ver Código](https://github.com/Daniel-Cochachi/Daniel-Cochachi-Sistema-Ecommerce-basico-Java-Spring-boot-Back-end)
 
 ---
 
