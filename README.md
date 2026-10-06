@@ -1,80 +1,119 @@
-<h1 align="center">Hola, soy Daniel Cochachi 👋</h1>
-
 <p align="center">
-  <img src="./assets/banner.png" alt="Daniel Cochachi - Backend Developer Jr. | Java + Spring Boot" width="100%">
+  <img src="./assets/banner.png" alt="Daniel Cochachi - Backend Developer | Java + Spring Boot" width="100%">
 </p>
 
 <p align="center">
-  <a href="https://daniel-cochachi.github.io/Portafolio-Daniel-Cochachi/"><img src="https://img.shields.io/badge/Portafolio-181717?style=flat-square&logo=githubpages&logoColor=white" alt="Portafolio"></a>
-  <a href="https://www.linkedin.com/in/daniel-armando-cochachi-pariona-482672397"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:daniel.cochachi.pariona@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
-  <img src="https://img.shields.io/badge/Disponible-Pr%C3%A1cticas%20%26%20Junior-2EA44F?style=flat-square" alt="Disponible para prácticas y puestos junior">
+  <a href="https://daniel-cochachi.github.io/Portafolio-Daniel-Cochachi/"><img src="https://img.shields.io/badge/Portafolio-0A7C66?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portafolio"></a>
+  <a href="https://www.linkedin.com/in/daniel-armando-cochachi-pariona-482672397"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:daniel.cochachi.pariona@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-22C55E?style=for-the-badge&logo=github&logoColor=white" alt="Open to Work">
 </p>
 
-## Sobre mí
+---
 
-- 🎓 Estudiante de Computación e Informática en Cibertec · Perú
-- 🚀 Creador de **ClubReserva**, un SaaS de catálogos para WhatsApp en producción
-- ☕ Backend con **Java y Spring Boot**: APIs REST, JWT, JPA/Hibernate y MySQL
-- 🐘 Backend con **PHP y Laravel**, y frontend con **React y TypeScript**
-- 🌐 Sitios web para negocios locales con Astro y JavaScript
-- 🤖 Uso IA como asistente de desarrollo: **Antigravity, Claude, Gemini y DeepSeek**
-- 🔎 Busco mi primera oportunidad: **prácticas o puesto junior** como desarrollador backend
+## 👨‍💻 Sobre mí
 
-## Proyectos destacados
+Desarrollador de software enfocado en **Backend** y arquitectura de sistemas. Especializado en crear soluciones robustas, APIs REST y productos web reales con buenas prácticas, seguridad y persistencia de datos.
+
+- 🚀 **Creador de [ClubReserva](https://clubreserva.com):** Plataforma SaaS de catálogos y pedidos en producción con negocios activos.
+- ☕ **Especialización Backend:** Diseño e implementación de APIs REST con **Java y Spring Boot** (Spring Security, JWT, Spring Data JPA / Hibernate, MySQL).
+- 🐘 **Desarrollo Web & Fullstack:** Aplicaciones con **PHP / Laravel**, y frontend moderno con **React, TypeScript y TailwindCSS**.
+- 🤖 **Desarrollo Asistido por IA:** Flujo de trabajo optimizado integrando herramientas avanzadas (**Antigravity, Claude, Gemini, DeepSeek**) para testing, refactorización y documentación.
+- 🎯 **Enfoque actual:** Integrarme a un equipo de desarrollo para aportar valor directo construyendo software escalable.
+
+---
+
+## 🚀 Proyectos destacados
 
 <table>
   <tr>
     <td align="center" width="50%">
-      <h3>ClubReserva · SaaS en producción</h3>
-      <img src="./assets/clubreserva.png" alt="ClubReserva - catálogos digitales para WhatsApp" width="400">
-      <br>
-      <a href="https://clubreserva.com"><img src="https://img.shields.io/badge/DEMO-0A7C66?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Demo"></a>
+      <h3>ClubReserva · SaaS en Producción</h3>
+      <img src="./assets/clubreserva.png" alt="ClubReserva - catálogos digitales para WhatsApp" width="100%">
+      <br><br>
+      <a href="https://clubreserva.com"><img src="https://img.shields.io/badge/VER%20DEMO-0A7C66?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Demo"></a>
       <a href="https://clubreserva.com/yuki"><img src="https://img.shields.io/badge/CASO%20REAL-181717?style=for-the-badge" alt="Caso real"></a>
       <br><br>
-      Plataforma SaaS donde cada negocio publica su <b>catálogo web</b> y recibe pedidos estructurados en su <b>WhatsApp</b>, sin comisiones por venta. Incluye panel de administración y un catálogo real en producción con más de 60 productos.
+      Plataforma SaaS multi-tienda donde negocios publican su <b>catálogo digital</b> y procesan pedidos estructurados directamente en su <b>WhatsApp</b>, sin comisiones por venta. Incluye panel administrativo y catálogo real con +60 productos.
       <br><br>
-      <sub>PHP · Laravel · Livewire · React · MySQL</sub>
+      <sub><b>Stack:</b> PHP · Laravel · Livewire · React · MySQL</sub>
       <br>
-      <sub>🔒 Código privado (producto en producción) · disponible para revisar en entrevista</sub>
+      <sub>🔒 Código privado (producto comercial) · Demo disponible en entrevista</sub>
     </td>
     <td align="center" width="50%">
-      <h3>Mirai Café · Fullstack</h3>
-      <img src="./assets/mirai-cafe.png" alt="Mirai Café - sistema web para una cafetería con Spring Boot y React" width="400">
-      <br>
-      <a href="https://github.com/Daniel-Cochachi/Mirai_Cafe"><img src="https://img.shields.io/badge/C%C3%93DIGO-181717?style=for-the-badge&logo=github&logoColor=white" alt="Código"></a>
-      <a href="https://github.com/Daniel-Cochachi/Mirai_Cafe/tree/main/docs"><img src="https://img.shields.io/badge/DOCS-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Documentación"></a>
+      <h3>Mirai Café · Fullstack API & Web</h3>
+      <img src="./assets/mirai-cafe.png" alt="Mirai Café - sistema web para una cafetería con Spring Boot y React" width="100%">
       <br><br>
-      Sistema web para una cafetería, desarrollado en equipo: <b>autenticación con JWT y roles</b> (<code>ADMIN</code>, <code>CAJERO</code>, <code>CLIENTE</code>), gestión de productos e inventario de insumos, y API documentada con <b>Swagger</b>. Frontend en <b>React con TypeScript</b>.
+      <a href="https://github.com/Daniel-Cochachi/Mirai_Cafe"><img src="https://img.shields.io/badge/REPOSITORIO-181717?style=for-the-badge&logo=github&logoColor=white" alt="Código"></a>
+      <a href="https://github.com/Daniel-Cochachi/Mirai_Cafe/tree/main/docs"><img src="https://img.shields.io/badge/SWAGGER%20DOCS-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Documentación"></a>
       <br><br>
-      <sub>Java 21 · Spring Boot 3 · Spring Security · JPA · MySQL · React · TypeScript · Vite · TailwindCSS</sub>
+      Sistema integral para cafetería: arquitectura por capas, <b>autenticación JWT con roles</b> (<code>ADMIN</code>, <code>CAJERO</code>, <code>CLIENTE</code>), gestión de inventario y API completamente documentada con <b>Swagger / OpenAPI</b>.
+      <br><br>
+      <sub><b>Stack:</b> Java 21 · Spring Boot 3 · Spring Security · JPA · MySQL · React · TypeScript · Vite · TailwindCSS</sub>
     </td>
   </tr>
 </table>
 
-Más proyectos en mis [repositorios](https://github.com/Daniel-Cochachi?tab=repositories).
-
-## Stack
-
-<p>
-  <img src="https://skillicons.dev/icons?i=java,spring,maven,mysql,php,laravel,react,ts,tailwind,js,astro,git,github" alt="Tecnologías" />
+<p align="center">
+  👉 <i>Explora más proyectos y código en mis <a href="https://github.com/Daniel-Cochachi?tab=repositories"><b>repositorios públicos</b></a>.</i>
 </p>
 
-<p>
-  <img src="https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Antigravity">
-  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude">
-  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini">
-  <img src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge&logo=deepseek&logoColor=white" alt="DeepSeek">
+---
+
+## 🛠️ Stack Tecnológico
+
+<table>
+  <tr>
+    <td width="30%"><b>Backend</b></td>
+    <td>Java (17/21), Spring Boot, Spring Security, JWT, Spring Data JPA, Hibernate, PHP, Laravel, Livewire</td>
+  </tr>
+  <tr>
+    <td width="30%"><b>Bases de Datos</b></td>
+    <td>MySQL, SQL Server, Modelado Relacional</td>
+  </tr>
+  <tr>
+    <td width="30%"><b>Frontend</b></td>
+    <td>React, TypeScript, JavaScript, TailwindCSS, Vite, HTML5, CSS3, Astro</td>
+  </tr>
+  <tr>
+    <td width="30%"><b>Herramientas & DevOps</b></td>
+    <td>Git, GitHub, Maven, Postman, Swagger / OpenAPI, Docker, IntelliJ IDEA, VS Code</td>
+  </tr>
+  <tr>
+    <td width="30%"><b>IA en Desarrollo</b></td>
+    <td>Antigravity, Claude, Gemini, DeepSeek (testing, refactorización y documentación ágil)</td>
+  </tr>
+</table>
+
+<br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,maven,mysql,php,laravel,react,ts,tailwind,js,docker,git,github" alt="Tecnologías" />
 </p>
 
-- **Backend:** Java 17/21, Spring Boot, Spring Security (JWT), Spring Data JPA / Hibernate, PHP, Laravel, Livewire
-- **Frontend:** React, TypeScript, Vite, TailwindCSS, JavaScript, HTML, CSS, Astro
-- **Datos:** MySQL, SQL Server
-- **Herramientas:** Git, GitHub, Maven, Postman, Swagger, IntelliJ IDEA, VS Code
-- **IA:** Antigravity, Claude, Gemini, DeepSeek
+---
 
-## Contacto
+## 📊 Actividad en GitHub
 
-- Email: [daniel.cochachi.pariona@gmail.com](mailto:daniel.cochachi.pariona@gmail.com)
-- Portafolio: [daniel-cochachi.github.io/Portafolio-Daniel-Cochachi](https://daniel-cochachi.github.io/Portafolio-Daniel-Cochachi/)
-- LinkedIn: [linkedin.com/in/daniel-armando-cochachi-pariona-482672397](https://www.linkedin.com/in/daniel-armando-cochachi-pariona-482672397)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Daniel-Cochachi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=22c55e&icon_color=22c55e&text_color=c9d1d9" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Cochachi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=22c55e&text_color=c9d1d9" alt="Top Languages" height="165" />
+</p>
+
+---
+
+## 📬 Contacto & Colaboraciones
+
+¿Te interesa mi perfil o quieres conversar sobre una oportunidad o proyecto? ¡Conectemos!
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/daniel-armando-cochachi-pariona-482672397">
+    <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:daniel.cochachi.pariona@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Enviar%20Mensaje-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://daniel-cochachi.github.io/Portafolio-Daniel-Cochachi/">
+    <img src="https://img.shields.io/badge/Portafolio-Visitar%20Web-181717?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portafolio">
+  </a>
+</p>
